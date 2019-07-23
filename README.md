@@ -1,2 +1,3 @@
 # IP
-# Just some IP assignemnts and project
+# Image Processing Backup and git tutorial
+
